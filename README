@@ -1,28 +1,3 @@
-Inteligência Artificial: exemplo de uso dos algoritmos genéticos(GA)
-
-Este programa exemplifica o uso da inteligência artificial para resolver 
-problemas de otimização.  Sistemas onde para se chegar a uma solução ótima 
-é impraticável testar todas combinações possíveis, justifica o uso de métodos 
-de otimização como algoritmos genéticos, lógica fuzzy, redes neurais 
-artificiais, entre outros. Existem problemas clássicos de otimização como o 
-caixeiro viajante (Travelling Salesman Problem – TSP). O problema deste 
-exemplo é simples: um carro, aleatoriamente posicionado e orientado em um 
-plano, precisa estacionar em uma posição específica deste com o menor número 
-de iterações possíveis, ou seja, menor distância total percorrida. O carro 
-tem a restrição de só poder virar 30 graus a cada iteração(passo). A 
-metodologia utilizado para resolução do problema foi algoritmos genéticos(GA).
-È possível modificar as dimensões do plano assim como a inteligência do carro 
-alterando os parâmetros do GA.
+Genetic Algorithm Example
 
 
-A interface gráfica deste programa foi desenvolvida utilizando o ambiente de 
-desenvolvimento integrado Borland C++ Builder 6. O módulo ag e multilang 
-foram desenvolvidos em C++ Ansii.
-
-
-Lucas Lorensi dos Santos (lucas@pucrs.br)
-10/05/2006
-
-Atualizado em 20/10/2006
-Agora a garagem pode se mover aleatóriamente, e também é possível determinar 
-quais os ângulos limites que o carro pode virar a cada passo.
