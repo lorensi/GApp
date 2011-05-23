@@ -1,0 +1,57 @@
+[Application]
+appTitle=Crazy Car - Genetic Algorithm   [by Lucas Lorensi dos Santos]
+appIntelligence=Intelligence (Genetic Algorithm)
+appConfigArea=Configurations
+appDimPlan=Dimensions of the Plane
+appDelay=Delay Time [ms]
+appStep=Step
+appParam=Para&meters
+appGeneral=General
+appInvLessElite=The number of individuals must be greater than the elite number!
+appTip=Tip
+appInvalidNum=%1 isn't a valid number!
+appError=Error
+appDist=Distance
+appStatistic=Statistics
+appShow=Show
+appColumn0=Generation
+appColumn1=Fitness
+appColumn2=Curr.Orient.
+appColumn3=Angle inc.
+appColumn4=Curr. Pos.
+appColumn5=Distance
+appRun=&Run
+appPause=&Pause
+appClear=&Clear
+appExit=E&xit
+
+[Window Config]
+cfgLanguage=Língua
+appWConf=Parametes and Configurations
+cfgAdvanced=Advanced
+cfgSimple=Simple
+
+[AG]
+agCurrGen=Current Generation: %1
+agDistGen=Current Distance: %1
+agCurrPos=Current Position X: %1   Y: %2
+agCurrOri=Current Orientation: %1
+agNumIndiv=Individuals Num.
+agGarage=Garage
+agCenterGarage=Garage Center
+agTolerance=Tolerance
+agCar=Car
+agRay=Ray
+agCarPos=Car Position
+agRandPos=Random
+agPosMan=Manual
+agAngMan=Manual[°]
+agOrient=Orientation
+agAngLim=Limit Angles
+agAngLinRight=Right[°]
+agAngLinLeft=Left[°]
+agCrossOver=Crossover
+agMutation=Mutation
+agElite=Elite
+agIndiv=Individuals
+lbIntlg=Dumb                                                  Smart

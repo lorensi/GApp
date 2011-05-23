@@ -1,0 +1,57 @@
+[Application]
+appTitle=Crazy Car - Algoritmos Genéticos   [Lucas Lorensi dos Santos]
+appIntelligence=Inteligência (Algoritmo Genético)
+appConfigArea=Configurações
+appDimPlan=Dimensões do Plano
+appDelay=Tempo de Espera [ms]
+appStep=Passo
+appParam=&Parâmetros
+appGeneral=Geral
+appInvLessElite=O número de indivíduos deve ser maior que o número que a elite!
+appTip=Dica
+appInvalidNum=%1 não é um número válido!
+appError=Erro
+appDist=Distância
+appStatistic=Estatísticas
+appShow=Mostrar
+appColumn0=Geração
+appColumn1=Ajuste
+appColumn2=Orient.Atual
+appColumn3=Inc. Angulo
+appColumn4=Pos.Atual
+appColumn5=Distância
+appRun=&Executar
+appPause=&Pause
+appClear=&Limpar
+appExit=&Sair
+
+[Window Config]
+cfgLanguage=Language
+appWConf=Configurações e Parâmetros
+cfgAdvanced=Avançado
+cfgSimple=Simples
+
+[AG]
+agCurrGen=Geração Atual: %1
+agDistGen=Distância Atual: %1
+agCurrPos=Posição Atual X: %1   Y: %2
+agCurrOri=Orientação Atual: %1
+agNumIndiv=Nº de Indivíduos
+agGarage=Garagem
+agCenterGarage=Centro da Garagem
+agTolerance=Tolerância
+agCar=Carro
+agRay=Raio
+agCarPos=Posição do Carro
+agRandPos=Aleatória
+agPosMan=Manual
+agAngMan=Manual[°]
+agOrient=Orientação
+agAngLim=Ângulos Limites
+agAngLinRight=Direita[°]
+agAngLinLeft=Esquerda[°]
+agCrossOver=Cruzamento
+agMutation=Mutação
+agElite=Elite
+agIndiv=Indivíduos
+lbIntlg=Burro                                                 Esperto
